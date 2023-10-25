@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ds>
+  <nguoiChoi>
+    <maLanChoi>1</maLanChoi>
+    <mauPhieu>Xanh la 1</mauPhieu>
+    <ketQua>Lose - 45/18</ketQua>
+    <soTien>-270</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>2</maLanChoi>
+    <mauPhieu>Xanh la 1</mauPhieu>
+    <ketQua>Lose - 19/10</ketQua>
+    <soTien>-90</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>3</maLanChoi>
+    <mauPhieu>Xanh duong 1</mauPhieu>
+    <ketQua>Lose - 19/59</ketQua>
+    <soTien>-400</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>4</maLanChoi>
+    <mauPhieu>Xanh duong 2</mauPhieu>
+    <ketQua>Win - 56/60</ketQua>
+    <soTien>40</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>5</maLanChoi>
+    <mauPhieu>Xanh la 2</mauPhieu>
+    <ketQua>Lose - 70/30</ketQua>
+    <soTien>-400</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>6</maLanChoi>
+    <mauPhieu>Xanh la 2</mauPhieu>
+    <ketQua>Win - 5/80</ketQua>
+    <soTien>750</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>7</maLanChoi>
+    <mauPhieu>Xanh la 1</mauPhieu>
+    <ketQua>Lose - 15/5</ketQua>
+    <soTien>-100</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>8</maLanChoi>
+    <mauPhieu>Xanh la 1</mauPhieu>
+    <ketQua>Lose - 45/65</ketQua>
+    <soTien>200</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>9</maLanChoi>
+    <mauPhieu>Xanh duong 2</mauPhieu>
+    <ketQua>Win - 5/80</ketQua>
+    <soTien>750</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>10</maLanChoi>
+    <mauPhieu>Xanh la 2</mauPhieu>
+    <ketQua>Win - 56/81</ketQua>
+    <soTien>250</soTien>
+  </nguoiChoi>
+  <nguoiChoi>
+    <maLanChoi>11</maLanChoi>
+    <mauPhieu>Xanh la 1</mauPhieu>
+    <ketQua>Win - 53/58</ketQua>
+    <soTien>50</soTien>
+  </nguoiChoi>
+</Ds>

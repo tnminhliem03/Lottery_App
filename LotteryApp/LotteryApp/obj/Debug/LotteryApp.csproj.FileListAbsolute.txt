@@ -1,0 +1,77 @@
+D:\Project C#\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe.config
+D:\Project C#\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe
+D:\Project C#\LotteryApp\LotteryApp\bin\Debug\LotteryApp.pdb
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.AssemblyReference.cache
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.Properties.Resources.resources
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.GenerateResource.cache
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.CoreCompileInputs.cache
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.exe
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.pdb
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormOption1.resources
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormOptions.resources
+D:\Project C#\LotteryApp\LotteryApp\bin\Debug\Interop.WMPLib.dll
+D:\Project C#\LotteryApp\LotteryApp\bin\Debug\AxInterop.WMPLib.dll
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\Interop.WMPLib.dll
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\AxInterop.WMPLib.dll
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.ResolveComReference.cache
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormTicKet.resources
+D:\Project C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormHistory.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe.config
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\bin\Debug\LotteryApp.pdb
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\bin\Debug\Interop.WMPLib.dll
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\bin\Debug\AxInterop.WMPLib.dll
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.AssemblyReference.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\Interop.WMPLib.dll
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\AxInterop.WMPLib.dll
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.ResolveComReference.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormTicket.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormHistory.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormOption1.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormOptions.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.Properties.Resources.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.GenerateResource.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.CoreCompileInputs.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.exe
+D:\LapTrinhGiaoDien_C#\LotteryApp\LotteryApp\obj\Debug\LotteryApp.pdb
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe.config
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\LotteryApp.pdb
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\Interop.WMPLib.dll
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\AxInterop.WMPLib.dll
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.AssemblyReference.cache
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\Interop.WMPLib.dll
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\AxInterop.WMPLib.dll
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.ResolveComReference.cache
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormTicket.resources
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormHistory.resources
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormOption1.resources
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormOptions.resources
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.Properties.Resources.resources
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.GenerateResource.cache
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.CoreCompileInputs.cache
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.exe
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.pdb
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\Guna.UI.dll
+D:\Project C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.CopyComplete
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe.config
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\LotteryApp.pdb
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\Interop.WMPLib.dll
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\bin\Debug\AxInterop.WMPLib.dll
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.AssemblyReference.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\Interop.WMPLib.dll
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\AxInterop.WMPLib.dll
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.ResolveComReference.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormTicket.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormHistory.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormOption1.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.FormOptions.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.Properties.Resources.resources
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.GenerateResource.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.CoreCompileInputs.cache
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csproj.CopyComplete
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.exe
+D:\LapTrinhGiaoDien_C#\LotteryApp_L4\LotteryApp\LotteryApp\obj\Debug\LotteryApp.pdb
